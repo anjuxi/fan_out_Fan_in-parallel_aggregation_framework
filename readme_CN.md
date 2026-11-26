@@ -138,7 +138,9 @@ python -m pytest tests -q
 ## 联系作者
 
 谙弆悕博士（Ailan Anjuxi）
+
 📫 邮箱：anjuxi.ME@outlook.com
+
 📞 SIP 电话：sip:anjuxi@sip.linphone.org
 
 > © 2026 谙弆悕博士（Ailan Anjuxi），All rights reserved.
